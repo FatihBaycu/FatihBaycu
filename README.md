@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything
 - 📫 How to reach me: fatih.baycu@gmail.com
 
+![](https://komarev.com/ghpvc/?FatihBaycu=your-github-FatihBaycu)
