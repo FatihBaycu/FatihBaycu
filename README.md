@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently study on Gedik University
-- 🌱 I’m currently learning .Net & Java Spring Boot & Angular & Flutter
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Friend
-- 🤔 I’m looking for help with .Net & Angular
-- 💬 Ask me about Anything
+- 🤔 I’m looking for help with Flutter
+- 💬 Ask me about Flutter
 - 📫 How to reach me: fatih.baycu@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=FatihBaycu&color=green)
