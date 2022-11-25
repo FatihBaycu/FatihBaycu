@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently study on Anadolu University
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Net.Core, Flutter
 - 👯 I’m looking to collaborate on Friend
-- 🤔 I’m looking for help with Flutter
-- 💬 Ask me about Flutter
+- 🤔 I’m looking for help with Net.Core, Flutter
+- 💬 Ask me about Net.Core, Flutter
 - 📫 How to reach me: fatih.baycu@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=FatihBaycu&color=green)
